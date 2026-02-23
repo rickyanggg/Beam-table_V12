@@ -1,0 +1,7 @@
+{
+  "name": "Beam Master Pro | AI Copilot Edition_V12",
+  "description": "Hybrid TTD & PS Table Generator with Gemini AI Copilot for natural language control and physics analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
